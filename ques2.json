@@ -1,0 +1,6 @@
+{
+  "prompt": "A hyper-realistic photograph of a locksmith’s workshop. On a wooden workbench, a worn-out, irregular, slightly damaged metal lock is mounted. A highly intricate, jagged key is inserted into this lock and fits perfectly. Next to it, several clean, standard locks are placed in a row. The same key is unsuccessfully being tried in one of these normal locks, not fitting properly. The key has an unusually complex shape with excessive grooves and irregular cuts. The normal locks appear simple and uniform. Warm natural lighting, cinematic shadows, shallow depth of field, ultra-detailed textures, realistic metal reflections, 4k resolution. No text, no labels, no diagrams, no symbols.",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A key carved to match one damaged lock perfectly fails on normal locks, showing memorization of irregularities and poor generalization."
+}
